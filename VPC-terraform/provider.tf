@@ -12,4 +12,5 @@ terraform {
 
 provider "aws" {
   # Configuration options
+  region = "#regiontobespecified" 
 }
